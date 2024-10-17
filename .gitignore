@@ -175,5 +175,5 @@ dist
 .DS_Store
 
 # Environment files
-!.env.example
 .env*
+!.env.example
