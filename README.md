@@ -83,4 +83,4 @@ RMSOIX
 
 ## Image
 
-![Failed Parse](https://github.com/xaac-ai/llama-artifact/raw/main/failed_parse.png)
+![Results Image](https://github.com/xaac-ai/llama-artifact/raw/main/failed_parse.png)
